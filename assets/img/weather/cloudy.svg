@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="Cloudy weather">
+  <rect width="96" height="96" rx="16" fill="#e0f2fe"/>
+  <path d="M25 67h45a17 17 0 0 0 1-34 25 25 0 0 0-47-5 20 20 0 0 0 1 39Z" fill="#fff"/>
+  <path d="M25 67h45a17 17 0 0 0 1-34 25 25 0 0 0-47-5 20 20 0 0 0 1 39Z" fill="none" stroke="#94a3b8" stroke-width="4"/>
+</svg>
+

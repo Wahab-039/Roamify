@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="Clear weather">
+  <rect width="96" height="96" rx="16" fill="#e0f2fe"/>
+  <circle cx="48" cy="48" r="20" fill="#f97316"/>
+  <g stroke="#f97316" stroke-width="6" stroke-linecap="round">
+    <path d="M48 10v10M48 76v10M10 48h10M76 48h10M21 21l7 7M68 68l7 7M75 21l-7 7M28 68l-7 7"/>
+  </g>
+</svg>
+

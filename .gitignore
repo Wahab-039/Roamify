@@ -1,0 +1,8 @@
+/uploads/destinations/*
+!/uploads/destinations/.gitkeep
+!/uploads/destinations/.htaccess
+/.env
+*.log
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="Storm weather">
+  <rect width="96" height="96" rx="16" fill="#e0f2fe"/>
+  <path d="M25 56h45a16 16 0 0 0 0-32 25 25 0 0 0-46 7 15 15 0 0 0 1 25Z" fill="#fff" stroke="#64748b" stroke-width="4"/>
+  <path d="M49 58 39 78h12l-4 12 16-23H51l6-9Z" fill="#f97316"/>
+</svg>
+
